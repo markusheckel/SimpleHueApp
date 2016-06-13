@@ -8,7 +8,7 @@ var App = function () {
     if (accessData) {
         console.log("ip = " + accessData.ip + " | user = " + accessData.user);
     } else {
-        console.log("NO ACCESS DATA");
+        console.log("NO ACCESS DATA.");
     }
 }
 
